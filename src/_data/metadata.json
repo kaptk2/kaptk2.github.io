@@ -1,0 +1,21 @@
+{
+  "title": "blog on you beatiful star",
+  "url": "https://andrew.niemantsverdriet.com/",
+  "language": "en",
+  "description": "thoughts on whatever I want to think about",
+  "feed": {
+    "subtitle": "isn't rss super rad?",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://andrew.niemantsverdriet.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://andrew.niemantsverdriet.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Andrew Niemantsverdriet",
+    "email": "andrew@niemantsverdriet.com",
+    "url": "https://andrew.niemantsverdriet.com/about-me/"
+  }
+}
