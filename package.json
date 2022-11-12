@@ -6,7 +6,7 @@
     "start": "run-p start:*",
     "start:eleventy": "npx @11ty/eleventy --serve",
     "start:tailwind": "npx tailwindcss -i src/css/site.css -o _site/css/site.css --watch",
-    "build": "run-s clean build:eleventy build:tailwind",
+    "build": "run-s build:eleventy build:tailwind",
     "build:eleventy": "npx @11ty/eleventy",
     "build:tailwind": "npx tailwindcss -i src/css/site.css -o _site/css/site.css",
     "debug": "DEBUG=* npx @11ty/eleventy"
